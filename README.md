@@ -16,3 +16,7 @@ Plots used are:
 9. Box Plot
 10. Categorial Plot
 
+Usefull Links of Matplotlib and Seaborn:
+
+- Matlpotlib - https://matplotlib.org/
+- Seaborn - https://seaborn.pydata.org/
