@@ -20,3 +20,4 @@ Usefull Links of Matplotlib and Seaborn:
 
 - Matlpotlib - https://matplotlib.org/
 - Seaborn - https://seaborn.pydata.org/
+- Types of Graphs - https://matplotlib.org/stable/plot_types/index.html
